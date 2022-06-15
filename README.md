@@ -1,2 +1,2 @@
-# currency-exchange-rate
-Script to generate daily list of currency exchange rates
+# Currency exchange rate
+Script to generate daily list of currency exchange rates.
